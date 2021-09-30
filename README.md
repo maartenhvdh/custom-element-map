@@ -1,6 +1,6 @@
 # Geolocation Leaflet element
 
-This KC custom element allows you to put a marker on a map and it automatically gets converted to latitude and longitude geo locations.
+This Kontent custom element allows you to put a marker on a map and it automatically gets converted to latitude and longitude geo locations.
 
 This element is based on [Leaflet](https://leafletjs.com) service that uses [Open street maps](https://www.openstreetmap.org) together with the [Mapbox](https://www.mapbox.com/) service.
 
