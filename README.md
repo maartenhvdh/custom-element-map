@@ -4,9 +4,6 @@ This Kontent custom element allows you to put a marker on a map and it automatic
 
 This element is based on [Leaflet](https://leafletjs.com) service that uses [Open street maps](https://www.openstreetmap.org) together with the [Mapbox](https://www.mapbox.com/) service.
 
-You can test it by configuring https://kentico.github.io/kontent-custom-element-samples/Geolocation-Leaflet/Geolocation-Leaflet.html url for your custom element.\
-For testing purposes you can use provided `access_token` otherwise you need to [generate your own MapBox access token](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/).
-
 ![screenshot](https://amend.cz/geolocation/geolocation2.png)
 
 ## Configuration
